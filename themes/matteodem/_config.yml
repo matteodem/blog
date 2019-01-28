@@ -1,5 +1,6 @@
 # Header Menu
 menu:
+  Personal: http://matteodem.ch
   Github: https://github.com/matteodem
   Mastodon: https://mastodon.social/@matteodem
 rss: /atom.xml
