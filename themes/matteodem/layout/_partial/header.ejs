@@ -1,0 +1,23 @@
+<!-- Page Header -->
+<%
+  var headerStyle = '';
+  var pageTitle = '';
+  var pageSubtitle = '';
+
+  if (headerType === 'index') {
+    pageTitle = config.title;
+    if (config.subtitle) pageSubtitle = config.subtitle;
+  } else if (headerType === 'post') {
+    if (post && post.cover) headerStyle = 'background-image: url(' + post.cover + ')';
+    pageTitle = post.title || __('untitled_post');
+  } else if (headerType === 'archive') {
+    pageTitle = __('archive_title');
+  }
+%>
+
+<header>
+  <div style="padding: 20px 0 50px 0">
+    <h1 style="margin: 0; line-height: 0.9em"><%= pageTitle %></h1>
+    <h2 style="line-height: 1em; font-size: 2rem; margin: -7px 0 0 6px" class="grey"><%= pageSubtitle %></h2>
+  </div>
+</header>

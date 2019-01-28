@@ -1,0 +1,11 @@
+<div style="padding: 20px 0">
+  <a href="<%- url_for(post.path) %>">
+      <%= post.title || __('untitled_post') %>
+  </a>
+
+  <div style="font-size: 2rem; padding: 5px 0 0 0" class="grey"><%= date(post.date) %></div>
+
+  <div style="padding: 10px 0; font-size: 1.6rem; color: #888; line-height: 1.8rem">
+      <%- post.excerpt || __('no_excerpt') %>
+  </div>
+</div>

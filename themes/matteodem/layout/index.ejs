@@ -1,0 +1,7 @@
+<%- partial('_partial/header', {headerType: 'index'}) %>
+<!-- Home Page Post List -->
+
+  <% page.posts.each(function(post){ %>
+    <%- partial('_partial/index-entry', {post: post, index: true}) %>
+  <% }) %>
+</div>

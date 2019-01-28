@@ -1,0 +1,10 @@
+<footer style="padding: 20px 0 0 0">
+  <% for (var i in theme.menu){ %>
+    <div style="display: inline-block; font-weight: bold">
+      <a href="<%- theme.menu[i].url ? url_for(theme.menu[i].url) : url_for(theme.menu[i]) %>"><%= i %></a>
+      //
+    </div>
+  <% } %>
+
+  Powered By <a target="_blank" href="https://hexo.io/">Hexo</a>
+</footer>

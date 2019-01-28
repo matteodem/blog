@@ -1,0 +1,49 @@
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="<%= page.description || '' %>">
+  <meta name="author" content="<%= config.author || '' %>">
+  <!-- Open Graph Data -->
+  <meta property="og:title" content="<%= page.title || config.title || '' %>"/>
+  <meta property="og:description" content="<%= page.description || config.description || '' %>" />
+  <meta property="og:site_name" content="<%= config.title || '' %>"/>
+  <meta property="og:type" content="<%= page.title ? 'article' : 'website' %>" />
+  <meta property="og:image" content="<%= config.url %><%= config.cover %>"/>
+  <% if (theme.rss) { %>
+    <link rel="alternate" href="<%- theme.rss %>" title="<%= config.title %>" type="application/atom+xml">
+  <% } %>
+  <% if (theme.favicon) { %>
+    <link rel="icon" href="<%- theme.favicon %>">
+  <% } %>
+
+  <title><%- config.title %></title>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css?family=Roboto:400,700,900');
+
+    body {
+      font-family: Roboto, Arial, sans-serif;
+      font-size: 20px;
+      padding: 30px;
+      max-width: 900px;
+      margin: 0;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        font-size: 15px;
+      }
+    }
+
+    @media (max-width: 500px) {
+      body {
+        font-size: 13px;
+      }
+    }
+
+    p { margin: 0; }
+    .grey { color: #BBB; }
+
+  </style>
+</head>
