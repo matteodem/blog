@@ -1,9 +1,11 @@
-<%- partial('_partial/header', {
-  headerType: 'post',
-  post: post
-}) %>
+<div class="article-title">
+  <%- partial('_partial/header', {
+    headerType: 'post',
+    post: post
+  }) %>
+</div>
 <article>
-  <div style="padding: 0 0 20px 0; font-size: 0.5em" class="grey">
+  <div style="padding: 0 0 20px 0; font-size: 0.5em" class="grey responsive-">
       <%- date(post.date) %>
       <%- partial('tags', {tags: post.tags, tagHash: true}) %>
   </div>
