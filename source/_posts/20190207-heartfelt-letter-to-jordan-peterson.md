@@ -5,11 +5,9 @@ tags:
   - public letter
 ---
 
-*Written based on the video https://www.youtube.com/watch?v=ea4mEnsTv6Q*
-
 Dear Jordan B. Peterson
 
-I'm writing this as a way to express my thoughts that I have gathered from watching and listening to you. I see a lot of love in the way you express yourself when you talk about freedom of speech. To me it's admirable how emotionally aware and connected with your self you are. I can't imagine to feel the pain you have for what you are trying to achieve.
+I'm writing this as a way to express my thoughts that I have gathered from watching and listening to you. <!-- more -->I see a lot of love in the way you express yourself when you talk about freedom of speech. To me it's admirable how emotionally aware and connected with your self you are. I can't imagine to feel the pain you have for what you are trying to achieve.
 
 That's why it makes it so much harder for me to see aspects of your reasoning and observations that make me question your current goals or aspirations. It seems to me that you have a great amount of hatred for that snake in the garden. And yeah; to you there is a snake. But is there one for me? Is there even a garden? Does there have to be?
 
@@ -22,3 +20,5 @@ I've thought about these questions for a long time and also embraced the concept
 In the end it's a question of how we decide to view things. If there are meaningless things, what are they exactly? (the same with meaningful and, in that spirit, whatever other topic you want to investigate) Do we act out of hate or love? And do we stand for one or the other, or just halfheartedly accept that it can't be just one?
 
 Questioning oneself (and as an extension others and more) can be painful and incredibly beautiful. It opens doors and closes some. I want to elaborate on it further in upcoming texts. For now I hope you'll go ahead and do some questioning. I'll do it either way.
+
+*Written based on [this video](https://www.youtube.com/watch?v=ea4mEnsTv6Q) *
