@@ -1,5 +1,5 @@
 ---
-title: A heartfelt letter to Jordan B. Peterson
+title: A heartfelt letter to Jordan Peterson
 date: 2019-02-07 09:20
 tags:
   - public letter
