@@ -9,6 +9,7 @@ tags:
 
 They’re never what we think of them
 They love to answer, they hate to question
+<!-- more -->
 They know what’s best for others, just trust them
 They dominate because that’s the right thing to do
 Nature is nothing but another problem to them
