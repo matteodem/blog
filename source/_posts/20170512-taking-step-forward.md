@@ -33,6 +33,6 @@ Anyways, I successfully finished my apprenticeship and moved on to work at a new
 
 It's already more than a year ago that I've started working at the startup. There's so much things I've learned from both the IT and music community that I want to share with you. The potential to create apps and videos that uses knowledge of both worlds is huge.
 
-That's exactly what I want to do with **createbits**. createbits is the first project where I'm aware of its purpose and consciously steering it. You can check out the [introduction video](https://vid.me/lvLJ) if you want to learn more about it.
+That's exactly what I want to do with **createbits**. createbits is the first project where I'm aware of its purpose and consciously steering it.
 
 This is definitely not the end of Insan3Lik3. It's an attempt at explaining how these past few years led me to where I am today. I will keep on making music, but clearly set the focus on createbits for now. Even though I really liked the playful beginnings of music-making I now grasped the importance of having a serious and dedicated approach to endeavors. I hope you have that too. I'm looking forward to what the future has in store.
